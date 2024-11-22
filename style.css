@@ -1,0 +1,76 @@
+.centered-heading {
+    text-align: center;
+}
+
+/* Style the unordered list */
+.product-list {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 10px;
+    border: 1px solid black; /* 1px border */
+    background-color: lightgray; /* Background color */
+}
+
+/* Style the list items */
+.product-list li {
+    font-weight: bold; /* Bold text */
+    color: green; /* Green text color */
+}
+
+#taskButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#taskButton:hover {
+    background-color: #45a049;
+}
+
+#taskButton, #taskButton3 {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#taskButton:hover, #taskButton3:hover {
+    background-color: #45a049;
+}
+#taskButton, #collectProducts {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#taskButton:hover, #collectProducts:hover {
+    background-color: #45a049;
+}
+
+#taskButton, #checkEmailBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#taskButton:hover, #checkEmailBtn:hover {
+    background-color: #45a049;
+}
